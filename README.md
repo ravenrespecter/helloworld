@@ -1,10 +1,12 @@
-# Hello world!
+# Hello, world! 
 
-This is my first repository.
+![Picture of crow.](https://user-images.githubusercontent.com/104162540/164560679-d143a57c-55bf-4363-92e5-95af99d0c5ce.png)
 
-## About Me
-I am learning HTML, CSS and JS to work as a front-end developer. I like ravens.
 
-## My hobbies
+## Career
 
-I like long, winding walks and bird watching.
+I am learning HTML, CSS and JS for front-end development.
+
+## About Me 
+
+I like long, winding walks and bird-watching.
